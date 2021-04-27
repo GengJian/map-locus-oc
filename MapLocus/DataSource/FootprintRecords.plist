@@ -220,27 +220,27 @@
 	</dict>
 	<dict>
 		<key>time</key>
-		<date>2018-04-26T09:32:20Z</date>
+		<date>2020-10-02T09:32:20Z</date>
 		<key>address</key>
-		<string>/</string>
+		<string>安徽合肥,逍遥津</string>
 		<key>event</key>
-		<string>/</string>
+		<string>李鸿章故居糊灯笼</string>
 		<key>latitude</key>
-		<real>0</real>
+		<real>31.8652772</real>
 		<key>longitude</key>
-		<real>0</real>
+		<real>117.2843195</real>
 	</dict>
 	<dict>
 		<key>time</key>
 		<date>2018-04-26T09:32:20Z</date>
 		<key>address</key>
-		<string>/</string>
+		<string>江苏南京,玄武湖</string>
 		<key>event</key>
-		<string>/</string>
+		<string>逛吃逛吃老门东</string>
 		<key>latitude</key>
-		<real>0</real>
+		<real>32.01206</real>
 		<key>longitude</key>
-		<real>0</real>
+		<real>118.787419</real>
 	</dict>
 	<dict>
 		<key>time</key>
