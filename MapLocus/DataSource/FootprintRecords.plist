@@ -244,15 +244,15 @@
 	</dict>
 	<dict>
 		<key>time</key>
-		<date>2018-04-26T09:32:20Z</date>
+		<date>2019-06-02T09:32:20Z</date>
 		<key>address</key>
-		<string>/</string>
+		<string>韩国济州,牛岛</string>
 		<key>event</key>
-		<string>/</string>
+		<string>第一次一起看海</string>
 		<key>latitude</key>
-		<real>0</real>
+		<real>33.5286968</real>
 		<key>longitude</key>
-		<real>0</real>
+		<real>126.3724984</real>
 	</dict>
 	<dict>
 		<key>time</key>
