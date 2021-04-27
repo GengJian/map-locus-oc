@@ -26,7 +26,7 @@
     [super viewDidLoad];
     
     self.title = @"一页页去哪了";
-    [self addConfigureItem];
+//    [self addConfigureItem];
     // Do any additional setup after loading the view.
     
     [self.view addSubview:self.mapView];
