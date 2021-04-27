@@ -6,6 +6,6 @@ target 'MapLocus' do
   use_frameworks!
 
   # Pods for MapLocus
-  pod 'BaiduMapKit', '6.0.0' # 默认集成全量包
+  pod 'BaiduMapKit', '>= 6.0.0' # 默认集成全量包
   
 end
