@@ -18,6 +18,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// 耿健走过的足迹
 + (NSArray<FootprintModel *> *) soulFootprints;
 
+/// 一起走过的足迹
++ (NSArray<FootprintModel *> *) togetherFootprints;
+
 @end
 
 NS_ASSUME_NONNULL_END

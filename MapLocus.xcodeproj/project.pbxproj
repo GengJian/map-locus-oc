@@ -16,6 +16,8 @@
 		0603C9602637F42A007012F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0603C95F2637F42A007012F2 /* main.m */; };
 		0603C97E2637FCF7007012F2 /* FootprintModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0603C97D2637FCF7007012F2 /* FootprintModel.m */; };
 		0603C9822637FDC5007012F2 /* FootprintDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 0603C9812637FDC5007012F2 /* FootprintDataSource.m */; };
+		0603C98E2638090B007012F2 /* MapConfigureController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0603C98D2638090B007012F2 /* MapConfigureController.m */; };
+		0603CA012638117E007012F2 /* FootprintRecords.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0603CA002638117E007012F2 /* FootprintRecords.plist */; };
 		D32B4442338E231BBB8A7F83 /* Pods_MapLocus.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19A4FBAFFF985197E16A25AF /* Pods_MapLocus.framework */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +38,9 @@
 		0603C97D2637FCF7007012F2 /* FootprintModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FootprintModel.m; sourceTree = "<group>"; };
 		0603C9802637FDC5007012F2 /* FootprintDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FootprintDataSource.h; sourceTree = "<group>"; };
 		0603C9812637FDC5007012F2 /* FootprintDataSource.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FootprintDataSource.m; sourceTree = "<group>"; };
+		0603C98C2638090B007012F2 /* MapConfigureController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapConfigureController.h; sourceTree = "<group>"; };
+		0603C98D2638090B007012F2 /* MapConfigureController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapConfigureController.m; sourceTree = "<group>"; };
+		0603CA002638117E007012F2 /* FootprintRecords.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = FootprintRecords.plist; sourceTree = "<group>"; };
 		19A4FBAFFF985197E16A25AF /* Pods_MapLocus.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MapLocus.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE11D4ECD30CEDC56226FFA /* Pods-MapLocus.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MapLocus.debug.xcconfig"; path = "Target Support Files/Pods-MapLocus/Pods-MapLocus.debug.xcconfig"; sourceTree = "<group>"; };
 		D0F8A93A885439CAE55F8F89 /* Pods-MapLocus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MapLocus.release.xcconfig"; path = "Target Support Files/Pods-MapLocus/Pods-MapLocus.release.xcconfig"; sourceTree = "<group>"; };
@@ -85,12 +90,31 @@
 				0603C9512637F429007012F2 /* SceneDelegate.m */,
 				0603C9532637F429007012F2 /* ViewController.h */,
 				0603C9542637F429007012F2 /* ViewController.m */,
+				0603C9FB26380DE7007012F2 /* Configure */,
+				0603C9FE263810C5007012F2 /* DataSource */,
+			);
+			path = MapLocus;
+			sourceTree = "<group>";
+		};
+		0603C9FB26380DE7007012F2 /* Configure */ = {
+			isa = PBXGroup;
+			children = (
+				0603C98C2638090B007012F2 /* MapConfigureController.h */,
+				0603C98D2638090B007012F2 /* MapConfigureController.m */,
+			);
+			path = Configure;
+			sourceTree = "<group>";
+		};
+		0603C9FE263810C5007012F2 /* DataSource */ = {
+			isa = PBXGroup;
+			children = (
 				0603C97C2637FCF7007012F2 /* FootprintModel.h */,
 				0603C97D2637FCF7007012F2 /* FootprintModel.m */,
 				0603C9802637FDC5007012F2 /* FootprintDataSource.h */,
 				0603C9812637FDC5007012F2 /* FootprintDataSource.m */,
+				0603CA002638117E007012F2 /* FootprintRecords.plist */,
 			);
-			path = MapLocus;
+			path = DataSource;
 			sourceTree = "<group>";
 		};
 		5E124C61F971C0310EB93FC0 /* Frameworks */ = {
@@ -171,6 +195,7 @@
 				0603C95D2637F42A007012F2 /* LaunchScreen.storyboard in Resources */,
 				0603C95A2637F42A007012F2 /* Assets.xcassets in Resources */,
 				0603C9582637F429007012F2 /* Main.storyboard in Resources */,
+				0603CA012638117E007012F2 /* FootprintRecords.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,6 +254,7 @@
 				0603C9602637F42A007012F2 /* main.m in Sources */,
 				0603C9822637FDC5007012F2 /* FootprintDataSource.m in Sources */,
 				0603C9522637F429007012F2 /* SceneDelegate.m in Sources */,
+				0603C98E2638090B007012F2 /* MapConfigureController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
