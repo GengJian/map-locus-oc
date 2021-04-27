@@ -93,6 +93,7 @@
     if (!_mapView) {
         _mapView = [[BMKMapView alloc]initWithFrame:self.view.bounds];
         _mapView.mapType = BMKMapTypeStandard;
+        _mapView.zoomLevel = 5;
         _mapView.delegate = self;
     }
     return _mapView;
