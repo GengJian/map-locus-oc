@@ -118,9 +118,9 @@
 		<key>event</key>
 		<string>龙井爬山</string>
 		<key>latitude</key>
-		<integer>30.20296</integer>
+		<real>30.20296</real>
 		<key>longitude</key>
-		<integer>120.1179323</integer>
+		<real>120.1179323</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -130,21 +130,21 @@
 		<key>event</key>
 		<string>人生中第一次送花</string>
 		<key>latitude</key>
-		<integer>31.2110983</integer>
+		<real>31.2110983</real>
 		<key>longitude</key>
-		<integer>121.4024111</integer>
+		<real>121.4024111</real>
 	</dict>
 	<dict>
 		<key>time</key>
-		<date>2017-04-9T21:32:20Z</date>
+		<date>2017-04-09T21:32:20Z</date>
 		<key>address</key>
 		<string>浙江杭州,黄龙体育馆</string>
 		<key>event</key>
 		<string>第一次看演唱会 五月天</string>
 		<key>latitude</key>
-		<integer>30.2670805</integer>
+		<real>30.2670805</real>
 		<key>longitude</key>
-		<integer>120.1322023</integer>
+		<real>120.1322023</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -154,9 +154,9 @@
 		<key>event</key>
 		<string>第一次旅行</string>
 		<key>latitude</key>
-		<integer>30.9387862</integer>
+		<real>30.9387862</real>
 		<key>longitude</key>
-		<integer>120.8825382</integer>
+		<real>120.8825382</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -166,9 +166,9 @@
 		<key>event</key>
 		<string>第一次一起看脱口秀</string>
 		<key>latitude</key>
-		<integer>31.220863</integer>
+		<real>31.220863</real>
 		<key>longitude</key>
-		<integer>121.4521533</integer>
+		<real>121.4521533</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -178,21 +178,21 @@
 		<key>event</key>
 		<string>打卡面馆</string>
 		<key>latitude</key>
-		<integer>31.307955</integer>
+		<real>31.307955</real>
 		<key>longitude</key>
-		<integer>120.6189753</integer>
+		<real>120.6189753</real>
 	</dict>
 	<dict>
 		<key>time</key>
-		<date>2018-04-9T06:32:20Z</date>
+		<date>2018-04-09T06:32:20Z</date>
 		<key>address</key>
 		<string>江苏无锡,鼋头渚</string>
 		<key>event</key>
 		<string>第一次Double Date</string>
 		<key>latitude</key>
-		<integer>31.519559</integer>
+		<real>31.519559</real>
 		<key>longitude</key>
-		<integer>120.2324723</integer>
+		<real>120.2324723</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -202,9 +202,9 @@
 		<key>event</key>
 		<string>第一次一起逛动物园</string>
 		<key>latitude</key>
-		<integer>30.674561</integer>
+		<real>30.674561</real>
 		<key>longitude</key>
-		<integer>119.6486353</integer>
+		<real>119.6486353</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -214,9 +214,9 @@
 		<key>event</key>
 		<string>第一次见大学室友</string>
 		<key>latitude</key>
-		<integer>29.161817</integer>
+		<real>29.161817</real>
 		<key>longitude</key>
-		<integer>120.3668383</integer>
+		<real>120.3668383</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -226,9 +226,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -238,9 +238,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -250,9 +250,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -262,9 +262,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -274,9 +274,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -286,9 +286,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -298,9 +298,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 	<dict>
 		<key>time</key>
@@ -310,9 +310,9 @@
 		<key>event</key>
 		<string>/</string>
 		<key>latitude</key>
-		<integer>0</integer>
+		<real>0</real>
 		<key>longitude</key>
-		<integer>0</integer>
+		<real>0</real>
 	</dict>
 </array>
 </plist>

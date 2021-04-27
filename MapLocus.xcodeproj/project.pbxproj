@@ -17,7 +17,7 @@
 		0603C97E2637FCF7007012F2 /* FootprintModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0603C97D2637FCF7007012F2 /* FootprintModel.m */; };
 		0603C9822637FDC5007012F2 /* FootprintDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 0603C9812637FDC5007012F2 /* FootprintDataSource.m */; };
 		0603C98E2638090B007012F2 /* MapConfigureController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0603C98D2638090B007012F2 /* MapConfigureController.m */; };
-		0603CA012638117E007012F2 /* FootprintRecords.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0603CA002638117E007012F2 /* FootprintRecords.plist */; };
+		069BB44326382E940026A360 /* FootprintRecords.plist in Resources */ = {isa = PBXBuildFile; fileRef = 069BB44226382E940026A360 /* FootprintRecords.plist */; };
 		D32B4442338E231BBB8A7F83 /* Pods_MapLocus.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19A4FBAFFF985197E16A25AF /* Pods_MapLocus.framework */; };
 /* End PBXBuildFile section */
 
@@ -40,7 +40,7 @@
 		0603C9812637FDC5007012F2 /* FootprintDataSource.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FootprintDataSource.m; sourceTree = "<group>"; };
 		0603C98C2638090B007012F2 /* MapConfigureController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapConfigureController.h; sourceTree = "<group>"; };
 		0603C98D2638090B007012F2 /* MapConfigureController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapConfigureController.m; sourceTree = "<group>"; };
-		0603CA002638117E007012F2 /* FootprintRecords.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = FootprintRecords.plist; sourceTree = "<group>"; };
+		069BB44226382E940026A360 /* FootprintRecords.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FootprintRecords.plist; sourceTree = "<group>"; };
 		19A4FBAFFF985197E16A25AF /* Pods_MapLocus.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MapLocus.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE11D4ECD30CEDC56226FFA /* Pods-MapLocus.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MapLocus.debug.xcconfig"; path = "Target Support Files/Pods-MapLocus/Pods-MapLocus.debug.xcconfig"; sourceTree = "<group>"; };
 		D0F8A93A885439CAE55F8F89 /* Pods-MapLocus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MapLocus.release.xcconfig"; path = "Target Support Files/Pods-MapLocus/Pods-MapLocus.release.xcconfig"; sourceTree = "<group>"; };
@@ -112,7 +112,7 @@
 				0603C97D2637FCF7007012F2 /* FootprintModel.m */,
 				0603C9802637FDC5007012F2 /* FootprintDataSource.h */,
 				0603C9812637FDC5007012F2 /* FootprintDataSource.m */,
-				0603CA002638117E007012F2 /* FootprintRecords.plist */,
+				069BB44226382E940026A360 /* FootprintRecords.plist */,
 			);
 			path = DataSource;
 			sourceTree = "<group>";
@@ -195,7 +195,7 @@
 				0603C95D2637F42A007012F2 /* LaunchScreen.storyboard in Resources */,
 				0603C95A2637F42A007012F2 /* Assets.xcassets in Resources */,
 				0603C9582637F429007012F2 /* Main.storyboard in Resources */,
-				0603CA012638117E007012F2 /* FootprintRecords.plist in Resources */,
+				069BB44326382E940026A360 /* FootprintRecords.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
